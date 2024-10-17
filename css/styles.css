@@ -1,0 +1,21 @@
+*{
+    font-family: cursive;
+    background-color: lightblue;
+}
+header{
+    background-color: #69acef;
+}
+
+#titulop{
+    color: #3498db;
+}
+
+footer{
+    background-color: #05ffb0;
+}
+
+nav{
+    list-style: none;
+    text-decoration: none;
+    background-color: blue;
+}
